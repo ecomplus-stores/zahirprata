@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 8000,
+      "autoplay": 4000,
       "full_width": true,
       "slides": [
         {
@@ -26,7 +26,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/37322-colar-11-1-.png"
+          "img": "/img/uploads/37322-colar-11-1-.png",
+          "link": "https://zahirprata.netlify.app/brincos"
         },
         {
           "start": "",
