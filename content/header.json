@@ -1,7 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "USE CUPOM10 PARA GANHAR 10% OFF EM SUA PRIMEIRA COMPRA",
-    "link": "/promotion"
+    "text": "UTILIZE O CUPOM10 PARA GANHAR 10% OFF EM SUA PRIMEIRA COMPRA",
+    "link": "",
+    "background": "#030303",
+    "color": "#ffffff"
   },
   "contacts_stripe": {
     "pages": [],
