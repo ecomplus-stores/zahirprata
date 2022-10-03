@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 8000,
       "full_width": true,
       "slides": [
         {
@@ -20,7 +20,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/colar_-12-1-.png"
+          "img": "/img/uploads/colar_-12-1-.png",
+          "link": "https://zahirprata.netlify.app/colares"
         },
         {
           "start": "",
