@@ -88,7 +88,8 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/37322-descubra-sua-numeracao.png"
+      "img": "/img/uploads/37322-descubra-sua-numeracao.png",
+      "link": "https://zahirprata.netlify.app/aneis"
     }
   ]
 }
