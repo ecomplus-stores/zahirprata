@@ -58,6 +58,14 @@
       "title": "Produtos Populares"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "headless": true,
+      "sort": "views"
+    },
+    {
       "type": "responsive-banner",
       "img": "/img/uploads/37322-descubra-sua-numeracao.png"
     }
