@@ -71,7 +71,8 @@
       "limit": 12,
       "page": 1,
       "sort": "sales",
-      "title": "Produtos Populares"
+      "title": "Produtos Populares",
+      "collection_id": "620ab1207963422eee01ef68:categories:Colares:/colares"
     },
     {
       "type": "collection-shelf",
