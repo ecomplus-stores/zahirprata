@@ -80,7 +80,8 @@
       "limit": 12,
       "page": 1,
       "headless": true,
-      "sort": "views"
+      "sort": "lowest_price",
+      "collection_id": "635a83a573321213f8bf5803:categories:Berloques:/berloques"
     },
     {
       "type": "responsive-banner",
