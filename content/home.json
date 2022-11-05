@@ -95,7 +95,8 @@
       "limit": 12,
       "page": 1,
       "collection_id": "620aaaaa7963422eee01d804:categories:Brincos:/brincos",
-      "sort": null
+      "sort": null,
+      "headless": true
     },
     {
       "type": "responsive-banner",
