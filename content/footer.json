@@ -43,6 +43,7 @@
     "mastercard": true,
     "citibank": false,
     "mais": false,
+    "amex": true,
     "itau": true
   },
   "credits": ""
