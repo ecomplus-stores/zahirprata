@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.1f02c1724513326c2f31bef9d7197639.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.c60832c5be45d3442c548084fe712592.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.f31c746f21bbe44ac2ff1adcc53d97bf.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.f1984ae8cd6d30092c0d2e19f5ec245b.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.c4ffb15322db0cb7152313bb8d7e6642.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Zahir Prata",
+  "short_name": "zahirprata",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "zahirprata",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
